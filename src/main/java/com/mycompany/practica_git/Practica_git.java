@@ -13,14 +13,10 @@ public class Practica_git {
     public static void main(String[] args) {
         System.out.println("sistema de gestion");
         System.out.println("Bienvenido,usuario");
+        
       
        
-        
-        
-        
-        
-        
-        
+    
         
     }
 }
